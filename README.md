@@ -1,2 +1,15 @@
-# Real-Time-Stock-Price-Visualization-in-Python
-Repository Description: This repository contains a Python application that fetches real-time stock prices from Yahoo Finance and visualizes them using Plotly. The project demonstrates the use of yfinance for data retrieval and plotly for interactive plotting.
+# Real-Time Stock Price Visualization
+
+This project fetches real-time stock prices using the Yahoo Finance API and visualizes the data with Plotly.
+
+## Features
+- Fetch real-time stock data using `yfinance`
+- Visualize stock prices with `plotly`
+- Interactive plots with time slider
+
+## Installation
+Clone the repository and install the required libraries:
+```sh
+git clone https://github.com/yourusername/real-time-stock-visualization.git
+cd real-time-stock-visualization
+pip install -r requirements.txt
